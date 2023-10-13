@@ -6,7 +6,7 @@ const path = require('path');
 var bodyParser = require('body-parser');
 
 
-const base_url = 'http://127.0.0.1:3000';
+const base_url = 'http://node53052-noderestcompro.proen.app.ruk-com.cloud:11437';
 
 app.set('views', path.join(__dirname, 'public', 'views'));
 app.set('view engine', 'ejs');
